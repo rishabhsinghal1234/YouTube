@@ -1,0 +1,39 @@
+.xyzcontainer {
+    position: relative;
+}
+
+.VideoCategory {
+    width: 925px;
+    position: relative;
+    overflow:hidden;
+}
+.Videolist {
+    width: 2200px;
+    position: relative;
+    
+}
+
+.VideoSlider {
+    color: #909090;
+    font-size: 280%;
+    position: absolute;
+    margin:5px;
+    padding:0px;
+    color:rgb(204, 204, 204);
+    background-color:rgb(121, 121, 121);
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px 0px rgb(104, 104, 104);
+}
+
+.SlideLeft {
+    left: -22px;
+    top: 15%;
+    z-index: 1;
+    position: absolute;
+}
+
+.SlideRight {
+    right: -12px;
+    top: 15%;
+    z-index: 1;
+}

@@ -1,0 +1,15 @@
+.DisplayItems{
+    display: flex;
+   
+}
+.Sidebar{
+/* position: fixed; */
+
+
+}
+.Videos{
+    /* position: fixed; */
+    margin-right:75px;
+    margin-left:75px;
+    
+}

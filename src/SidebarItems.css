@@ -1,0 +1,25 @@
+.SidebarItem{
+padding: 12px 24px;
+font: 16px Roboto;
+}
+.SidebarIcon{
+    margin-right: 24px;
+    height:24px;
+    color: #909090;
+    padding-right: 5px;width:24px;
+}
+.SidebarItem div{
+font-size:100%;
+font-size: 120%;
+display:inline-block
+    }
+.SidebarItemText{
+margin-right:24px;
+Font: 18px Roboto;
+color: Black;
+
+}
+.SingleSidebarItem{
+margin-bottom:15px;
+
+}

@@ -1,0 +1,10 @@
+.Sidebar {
+	min-width: 250px;
+	max-width: 250px;
+    min-height: 900px;
+    max-height: 900px;
+    display:inline-block;
+    background:#f5f5f5;
+	transition: all 0.3s;
+	/*    text-align: center;*/
+}

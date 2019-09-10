@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.VideoComponent {
+  margin:8px;
+  display: inline-block;
+  max-width: 214px;
+  min-width: 214px;
+  max-height: 230px;
+  min-height: 230px;
+  word-wrap: break-word;
+}
+
+.Details {
+  min-width: 210px;
+  max-width: 210px;
+  min-height: 84px;
+  max-height: 84px;
+
+}
+
+#VideoThumbnail {
+  min-width: 210px;
+  max-width: 210px;
+  min-height: 118px;
+  max-height: 118px;
+}
+
+#VideoTitle {
+  max-width: 210px;
+  max-height: 32px;
+  min-height: 32px;
+  margin-bottom: px;
+  padding: 1px;
+  font-size: 14px;
+  font-weight: bold;
+  word-wrap: break-word;
+}
+
+#ChannelName {
+  width: 186px;
+  height: 18;
+  color: grey;
+  margin-bottom: 0px;
+}
+
+#ViewsCount {
+  color: grey;
+}
+
+#UploadTime {
+  color: grey;
+}
